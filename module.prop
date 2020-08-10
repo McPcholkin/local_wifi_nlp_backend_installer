@@ -1,6 +1,6 @@
 id=local_wifi_nlp_backend_installer
-name=LocalWifiNlpBackend Installer
-version=Ver: 1
-versionCode=1
+name=LocalWifiNlpBackend 1.1.13
+version=Ver: 1.1.13
+versionCode=1113
 author=microG project, n76, McPcholkin
 description=Install LocalWifiNlpBackend to system

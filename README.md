@@ -1,6 +1,6 @@
 # LocalWifiNlpBackend installer for magisk
 
-Just install LocalWifiNlpBackend as system-less app
+Just install [LocalWifiNlpBackend 1.1.13](https://f-droid.org/en/packages/org.fitchfamily.android.wifi_backend/) as system app
 
 ## How to make magisk module:
 - Clone repo (or download as zip)
@@ -11,4 +11,4 @@ On Android 10 this app have problems witn location acces, to fix this problem i 
 
 Thanks:
 - **microG project** for their awesome work  
-- **n76** for [LocalWifiNlpBackend](https://github.com/n76/DejaVu)
+- **n76** for [LocalWifiNlpBackend](https://github.com/n76/wifi_backend)
